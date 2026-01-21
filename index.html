@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>궁에서 다같살을 추구하면 안되는 걸까?</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Pretendard:wght@300;400;600&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              serif: ['"Nanum Myeongjo"', 'serif'],
+              sans: ['"Pretendard"', 'sans-serif'],
+            },
+            colors: {
+              royal: {
+                gold: '#D4AF37',
+                dark: '#1A1A1A',
+                red: '#8B0000',
+                cream: '#F9F5F0',
+                paper: '#FFFAF0',
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        font-family: 'Pretendard', sans-serif;
+        background-color: #F9F5F0;
+        color: #1A1A1A;
+      }
+      .font-serif {
+        font-family: 'Nanum Myeongjo', serif;
+      }
+      /* Custom Scrollbar for a polished look */
+      ::-webkit-scrollbar {
+        width: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #F9F5F0;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #D4AF37;
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #B4941F;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "framer-motion": "https://esm.sh/framer-motion@^12.27.5",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "lucide-react": "https://esm.sh/lucide-react@^0.562.0"
+  }
+}
+</script>
+</head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
