@@ -40,17 +40,17 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, children, title }) => {
           >
             <div className="bg-royal-cream w-full max-w-4xl max-h-[90vh] overflow-y-auto rounded-xl shadow-2xl pointer-events-auto border border-royal-gold/30">
               <div className="sticky top-0 right-0 p-4 flex justify-between items-center bg-royal-cream/90 backdrop-blur z-10 border-b border-royal-gold/20">
-                 <h2 className="text-xl font-serif font-bold text-royal-dark pl-2 border-l-4 border-royal-gold">
+                 <h2 className="text-xl font-serif font-bold text-royal-dark pl-2 border-l-4 border-royal-gold truncate pr-4">
                     {title || 'Details'}
                  </h2>
                 <button
                   onClick={onClose}
-                  className="p-2 hover:bg-black/5 rounded-full transition-colors"
+                  className="p-2 hover:bg-black/5 rounded-full transition-colors flex-shrink-0"
                 >
                   <X className="w-6 h-6 text-gray-800" />
                 </button>
               </div>
-              <div className="p-6">
+              <div className="p-4 md:p-6">
                 {children}
               </div>
             </div>
