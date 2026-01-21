@@ -20,11 +20,14 @@ export const CHARACTERS: Character[] = [
     shortDesc: '첫번째 후궁. 명문가 장손. 화려한 미인.',
     themeColor: 'bg-red-900',
     images: [
-      "https://i.postimg.cc/x155LxLR/gung(11)-processed.png",
-      "https://i.postimg.cc/1zYKj8Cn/gung(10)-processed.png",
-      "https://i.postimg.cc/8Cnb07KW/gung(5)-processed.png",
-      "https://i.postimg.cc/xdFP4Xxm/gung(9)-processed.png",
-      "https://i.postimg.cc/x155LxLZ/gung(6)-processed.png",
+      "https://i.postimg.cc/gkwfKXDp/g(24).jpg",
+      "https://i.postimg.cc/BQ8dCLgs/g(23).jpg",
+      "https://i.postimg.cc/ncs61jkp/g(22).jpg",
+      "https://i.postimg.cc/5NZDK4Ph/g(19).jpg",
+      "https://i.postimg.cc/5NHZmYmZ/g(25).jpg",
+      "https://i.postimg.cc/xTkWPJPB/g(26).jpg",
+      "https://i.postimg.cc/bNGKRDR7/g(27).jpg",
+      "https://i.postimg.cc/bNGKRDRW/g(28).jpg"
     ],
     description: [
       "긴 흑발, 청록색 눈의 화려한 미인형.",
@@ -44,11 +47,13 @@ export const CHARACTERS: Character[] = [
     shortDesc: '두번째 후궁. 천민 출신. 긴 은발과 다정함.',
     themeColor: 'bg-slate-300',
     images: [
-      "https://i.postimg.cc/YSS3R63v/gung(19)-processed.png",
-      "https://i.postimg.cc/d00B62BF/gung(21)-processed.png",
-      "https://i.postimg.cc/LssTDtTX/gung(20)-processed.png",
-      "https://i.postimg.cc/s20JNM6s/gung(18)-processed.png",
-      "https://i.postimg.cc/W1880W0H/gung(4)-processed.png",
+      "https://i.postimg.cc/Fs2wCrWN/g(16).jpg",
+      "https://i.postimg.cc/yYw2p1QV/g(15).jpg",
+      "https://i.postimg.cc/TYZBNd7d/g(14).jpg",
+      "https://i.postimg.cc/J49SYr6W/g(17).jpg",
+      "https://i.postimg.cc/J4y9QDq7/g(20).jpg",
+      "https://i.postimg.cc/fT36vtKw/g(21).jpg",
+      "https://i.postimg.cc/fT61qz24/g(18).jpg"
     ],
     description: [
       "긴 은발에 흰색 눈. 성이 없는 천민 출신.",
@@ -68,11 +73,13 @@ export const CHARACTERS: Character[] = [
     shortDesc: '세번째 후궁. 흑발흑안. 자존감 낮은 무인.',
     themeColor: 'bg-gray-900',
     images: [
-      "https://i.postimg.cc/jjkhFDg5/gung(14)-processed.png",
-      "https://i.postimg.cc/N0PxzKJj/gung(16)-processed.png",
-      "https://i.postimg.cc/mr6S5PXc/gung(13)-processed.png",
-      "https://i.postimg.cc/hG305Xyh/gung(15)-processed.png",
-      "https://i.postimg.cc/FHpp0W0P/gung(12)-processed.png",
+      "https://i.postimg.cc/NjmSW3Sb/g(1).jpg",
+      "https://i.postimg.cc/HkXRfqRS/g(0).jpg",
+      "https://i.postimg.cc/mgCJ0vJS/g(2).jpg",
+      "https://i.postimg.cc/mgCJ0vJy/g(3).jpg",
+      "https://i.postimg.cc/XYdmTRm5/g(5).jpg",
+      "https://i.postimg.cc/L8Lwrcwj/g(4).jpg",
+      "https://i.postimg.cc/XYdmTRmy/g(6).jpg"
     ],
     description: [
       "단정한 검은 단발, 흑안. 이름 무명(無明)은 빛이 없다는 뜻.",
@@ -92,11 +99,13 @@ export const CHARACTERS: Character[] = [
     shortDesc: '네번째 후궁. 최연소. 애교 많고 활발함.',
     themeColor: 'bg-indigo-600',
     images: [
-      "https://i.postimg.cc/cL0TgytH/gung(8)-processed.png",
-      "https://i.postimg.cc/Vkm4rQ0C/gung(1)-processed.png",
-      "https://i.postimg.cc/13sMnhVF/gung(2)-processed.png",
-      "https://i.postimg.cc/mgjj7X7y/gung(7)-processed.png",
-      "https://i.postimg.cc/0ynn7W7V/gung(17)-processed.png",
+      "https://i.postimg.cc/K8Bwd6w3/g(7).jpg",
+      "https://i.postimg.cc/5NZDK47j/g(12).jpg",
+      "https://i.postimg.cc/GhZ6gL7D/g(10).jpg",
+      "https://i.postimg.cc/CLW9rhPj/g(8).jpg",
+      "https://i.postimg.cc/KvdCpGqL/g(11).jpg",
+      "https://i.postimg.cc/Fs2wCrW3/g(9).jpg",
+      "https://i.postimg.cc/nc6NSFRh/g(13).jpg"
     ],
     description: [
       "복슬거리는 짧은 은발, 깊은 남색 눈.",
